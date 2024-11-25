@@ -1,0 +1,4 @@
+Py City School data consists of math and reading scores for 15 different schools of various student population. The data compares average math and reading scores to calculate overall passing scores. Data that was sought in this analysis are broken down by grade, spending ranges, school size, and school type. 
+Average math and reading scores are pretty consistent among each grade 9 – 12 at each school. 
+Overall passing scores in schools under 2000 students are almost double the passing score in larger schools.
+The highest performing schools are charter schools. The top 5 are medium sized schools with smaller funding. The lowest performing schools are district schools. They are all have large student populations, larger school budgets, and scores almost half that of high preforming schools. 
